@@ -2,11 +2,14 @@
 <h3 align="center">🚀 Fullstack Developer | Ethiopia 🇪🇹</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dagimmengestu5&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=dagimmengestu5&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagimmengestu5&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dagimmengestu5&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
@@ -25,13 +28,15 @@
 <a href="https://instagram.com/dagimmengestu5"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
 <a href="https://twitter.com/dagimmengestu5"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 <a href="https://linkedin.com/in/dagim-mengistu-290346333/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://t.me/dagimmegest5"><img src="https://skillicons.dev/icons?i=telegram" height="40"/></a>
+<a href="https://youtube.com/@dagitube5"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,github,vscode,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,github,vscode,react,nodejs,laravel" />
 </p>
 
 ---
@@ -51,7 +56,7 @@
 
 ---
 
-### ✨ Fun Quote
+### ✨ Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
