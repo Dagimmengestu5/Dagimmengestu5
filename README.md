@@ -15,33 +15,30 @@
 - 📫 Reach me at: **Dagimmengestu5@gmail.com**
 
 ---
-
-### 🌐 Connect With Me
 ### 🌐 Connect With Me
 <p align="center">
 
-<a href="https://instagram.com/dagimmengestu5">
-  <img src="https://cdn.simpleicons.org/instagram/ffffff" height="40"/>
+<a href="https://instagram.com/dagimmengestu5" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" height="40"/>
 </a>
 
-<a href="https://twitter.com/dagimmengestu5">
-  <img src="https://cdn.simpleicons.org/x/ffffff" height="40"/>
+<a href="https://twitter.com/dagimmengestu5" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="40"/>
 </a>
 
-<a href="https://linkedin.com/in/dagim-mengistu-290346333/">
-  <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40"/>
+<a href="https://linkedin.com/in/dagim-mengistu-290346333/" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="40"/>
 </a>
 
-<a href="https://t.me/dagimmengestu5">
-  <img src="https://cdn.simpleicons.org/telegram/ffffff" height="40"/>
+<a href="https://t.me/dagimmengestu5" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" height="40"/>
 </a>
 
-<a href="https://youtube.com/@dagitech5">
-  <img src="https://cdn.simpleicons.org/youtube/ff0000" height="40"/>
+<a href="https://youtube.com/@dagitech5" target="_blank">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" height="40"/>
 </a>
 
 </p>
----
 
 ### 🛠️ Tech Stack
 <p align="center">
