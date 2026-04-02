@@ -17,6 +17,7 @@
 ---
 
 ---
+---
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -24,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
 </a>
 <a href="https://t.me/dagimmengestu5" target="_blank">
-  <img src="https://user-images.githubusercontent.com/82643532/121484115-46733280-ca09-11eb-8c6f-a89e81b672a9.png" alt="telegram" height="40" width="40" />
+  <img src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram" height="40" width="40" />
 </a>
 <a href="https://youtube.com/@dagitech5" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" width="40" />
@@ -36,6 +37,8 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
 </a>
 </p>
+
+---
 
 ---
 
