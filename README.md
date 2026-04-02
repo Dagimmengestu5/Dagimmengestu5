@@ -19,19 +19,19 @@
 ### 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/dagim-mengistu-290346333/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" vertical-align="middle" height="40" width="40" />
 </a>
 <a href="https://t.me/dagimmengestu5" target="_blank">
-  <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="45" alt="Telegram" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" vertical-align="middle" height="40" width="40" />
 </a>
 <a href="https://youtube.com/@dagitech5" target="_blank">
-  <img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="45" alt="YouTube" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" vertical-align="middle" height="40" width="40" />
 </a>
 <a href="https://twitter.com/dagimmengestu5" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="45" alt="X" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" vertical-align="middle" height="40" width="40" />
 </a>
 <a href="https://instagram.com/dagimmengestu5" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" vertical-align="middle" height="40" width="40" />
 </a>
 </p>
 
