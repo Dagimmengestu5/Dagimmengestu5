@@ -19,36 +19,38 @@
 ### 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/dagim-mengistu-290346333/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="LinkedIn" />
 </a>
 <a href="https://t.me/dagimmengestu5" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://skillicons.dev/icons?i=telegram&theme=dark" height="45" alt="Telegram" />
 </a>
 <a href="https://youtube.com/@dagitech5" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://skillicons.dev/icons?i=youtube&theme=dark" height="45" alt="YouTube" />
 </a>
 <a href="https://twitter.com/dagimmengestu5" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="45" alt="X" />
 </a>
 <a href="https://instagram.com/dagimmengestu5" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram" />
 </a>
 </p>
 
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,git,github,vscode,react,nodejs,laravel,tailwind,php,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,laravel,php,dart,flutter,tailwind,postgresql,linux,git,github,vscode" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-- 🔹 Fullstack Authentication System (Node.js + PostgreSQL)
-- 🔹 LMS Book Management System
-- 🔹 Orthodox Christian Web App (Amharic Content)
+- 🔹 **Fullstack Auth System** (Node.js + PostgreSQL)
+- 🔹 **LMS Book Management** (PHP & SQL)
+- 🔹 **Orthodox Christian Web App** (Amharic Content)
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Dagim Mengistu</b>
+  ⭐️ Developed with ❤️ by <b>Dagim Mengistu</b>
 </p>
