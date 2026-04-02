@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dagim Mengistu</h1>
-<h3 align="center">🚀 Fullstack Developer | Ethiopia 🇪🇹</h3>
+<h3 align="center"> Fullstack Developer | Ethiopia 🇪🇹</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dagimmengestu5&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -7,16 +7,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **Python & Fullstack Projects**
-- 🌱 Learning **Advanced Backend & System Design**
-- 🤝 Open to collaboration with **developers & teams**
-- 💬 Ask me about **Python, JavaScript, Web Development**
-- 📫 Reach me at: **Dagimmengestu5@gmail.com**
+###  About Me
+- Currently working on **Python & Fullstack Projects**
+- Learning **Advanced Backend & System Design**
+- Open to collaboration with **developers & teams**
+- Ask me about **Python, JavaScript, Web Development**
+- Reach me at: **Dagimmengestu5@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/dagim-mengistu-290346333/" target="_blank" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
@@ -36,20 +36,20 @@
 </p>
 
 ---
-### 🛠️ Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,laravel,php,dart,flutter,tailwind,mysql,postgres,linux,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🔹 **Fullstack Auth System** (Node.js + PostgreSQL)
-- 🔹 **LMS Book Management** (PHP & SQL)
-- 🔹 **Orthodox Christian Web App** (Amharic Content)
+### Featured Projects
+-  **Fullstack Auth System** (Node.js + PostgreSQL)
+-  **LMS Book Management** (PHP & SQL)
+-  **Orthodox Christian Web App** (Amharic Content)
 
 ---
 
 <p align="center">
-  ⭐️ Developed with ❤️ by <b>Dagim Mengistu</b>
+   Developed with  by <b>Dagim Mengistu</b>
 </p>
