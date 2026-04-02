@@ -39,7 +39,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,laravel,php,dart,flutter,tailwind,postgresql,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,laravel,php,dart,flutter,tailwind,postgresql,linux,git,github,mySql," />
 </p>
 
 ---
