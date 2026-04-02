@@ -16,31 +16,24 @@
 
 ---
 
----
----
-
 ### 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/dagim-mengistu-290346333/" target="_blank">
+<a href="https://linkedin.com/in/dagim-mengistu-290346333/" target="_blank" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-</a>
-<a href="https://t.me/dagimmengestu5" target="_blank">
+</a>&nbsp;&nbsp;
+<a href="https://t.me/dagimmengestu5" target="_blank" style="text-decoration: none;">
   <img src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram" height="40" width="40" />
-</a>
-<a href="https://youtube.com/@dagitech5" target="_blank">
+</a>&nbsp;&nbsp;
+<a href="https://youtube.com/@dagitech5" target="_blank" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" width="40" />
-</a>
-<a href="https://twitter.com/dagimmengestu5" target="_blank">
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/dagimmengestu5" target="_blank" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
-</a>
-<a href="https://instagram.com/dagimmengestu5" target="_blank">
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/dagimmengestu5" target="_blank" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
 </a>
 </p>
-
----
-
----
 
 ---
 
