@@ -17,28 +17,30 @@
 ---
 
 ### 🌐 Connect With Me
+### 🌐 Connect With Me
 <p align="center">
+
 <a href="https://instagram.com/dagimmengestu5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/instagram/ffffff" height="40"/>
 </a>
 
 <a href="https://twitter.com/dagimmengestu5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/x/ffffff" height="40"/>
 </a>
 
 <a href="https://linkedin.com/in/dagim-mengistu-290346333/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="40"/>
 </a>
 
 <a href="https://t.me/dagimmengestu5">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="40"/>
+  <img src="https://cdn.simpleicons.org/telegram/ffffff" height="40"/>
 </a>
 
 <a href="https://youtube.com/@dagitech5">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40"/>
+  <img src="https://cdn.simpleicons.org/youtube/ff0000" height="40"/>
 </a>
-</p>
 
+</p>
 ---
 
 ### 🛠️ Tech Stack
