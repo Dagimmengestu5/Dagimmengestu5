@@ -18,11 +18,25 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="https://instagram.com/dagimmengestu5"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://twitter.com/dagimmengestu5"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://linkedin.com/in/dagim-mengistu-290346333/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://t.me/dagimmengestu5"><img src="https://skillicons.dev/icons?i=telegram" height="40"/></a>
-<a href="https://youtube.com/@dagitech5"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
+<a href="https://instagram.com/dagimmengestu5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
+</a>
+
+<a href="https://twitter.com/dagimmengestu5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/dagim-mengistu-290346333/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+</a>
+
+<a href="https://t.me/dagimmengestu5">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" height="40"/>
+</a>
+
+<a href="https://youtube.com/@dagitech5">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40"/>
+</a>
 </p>
 
 ---
